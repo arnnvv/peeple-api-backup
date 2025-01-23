@@ -1,8 +1,4 @@
-node_modules/*
-node_modules/
-node_modules
-dist/*
-dist/
-dist
 .env
-.gitignore
+dist/
+drizzle/
+node_modules/
